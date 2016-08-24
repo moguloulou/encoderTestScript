@@ -1,0 +1,2 @@
+# encoderTestScript
+calculate bdrate
